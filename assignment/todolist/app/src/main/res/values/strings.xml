@@ -13,6 +13,6 @@
     <string name="write_to_file_hint">Display your content here</string>
 
     <!-- Note -->
-    <string name="take_a_note">Take a note</string>
+    <string name="take_a_note">Take note</string>
     <string name="confirm">Confirm</string>
 </resources>
